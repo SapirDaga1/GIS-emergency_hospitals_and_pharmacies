@@ -13,4 +13,4 @@ Final project for GIS course.<br><br>
 ### Terminal for frontend:
   1. cd frontend\app<br>
   2. npm i<br>
-  3. node start<br>
+  3. npm start<br>
